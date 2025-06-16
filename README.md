@@ -21,7 +21,7 @@ Key features include:
 ## 🚀 Live Demo 
 
 This project has been deployed using GitHub Pages.  
-👉 Live Link: [https://yourusername.github.io/DishDash/](https://yourusername.github.io/DishDash/)  
+👉 Live Link: https://parvathy-coderx.github.io/dishdash-recipe-app/  
  Backend PHP files are included in the project folder but are not hosted live due to platform limitations.
 
  ## 🧱 Technologies Used
